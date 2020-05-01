@@ -2,7 +2,7 @@ title:              USC ITE
 email:              jhhuang@usc.edu
 description:        Transportation Design and Consulting
 author:             James Huang
-baseurl:            "/index.html"
+baseurl:            ""
 url:                "https://uscite.github.io"
 
 # Social Profiles
